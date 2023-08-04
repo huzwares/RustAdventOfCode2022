@@ -2,7 +2,7 @@
 
 Welcome to my repository for Advent of Code 2022! Here, you'll find my simple and easy-to-read solutions to the Advent of Code 2022 challenges, all implemented in the Rust programming language without any external dependencies.
 
-Currently, ***this repository contains solutions for the first 11 days of Advent of Code 2022***. I'll be gradually adding solutions for the remaining days as I progress through the event.
+Currently, this repository contains solutions for the ***first 11 days*** of Advent of Code 2022. I'll be gradually adding solutions for the remaining days as I progress through the event.
 
 ## Table of Contents
 
